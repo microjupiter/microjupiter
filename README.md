@@ -27,7 +27,8 @@ Constructed using a Sinatra framework front & backend allowing the user to captu
  <br />
  &emsp;
  
-## Skills :computer:
+
+## Skills
 
 <p align="left">
   <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
