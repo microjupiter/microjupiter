@@ -5,6 +5,7 @@ With over 10 years of experience in the photography industry working for himself
 ### Projects
 
 **Rock, Paper, Scissors** - [Github Repo](https://github.com/microjupiter/rock_paper_scissors)
+<br>
 A simple web-based app allowing the user to compete in Rock, Paper, Scissors against a computer 
 Built utilizing vanilla Javascript frontend and a Rails API backend for simple data management, storage and display.
 
