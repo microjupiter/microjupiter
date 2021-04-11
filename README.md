@@ -10,17 +10,18 @@ A simple web-based app allowing the user to compete in Rock, Paper, Scissors aga
 Built utilizing vanilla Javascript frontend and a Rails API backend for simple data management, storage and display.
 
 **Simple Hike** - [Github Repo](https://github.com/microjupiter/simplehike)
+<br>
 A web-based app showcasing hiking trails and their details inside of National Parks 
 Structured using a Rails framework front & backend, giving users the opportunity to read and author comments based on their hiking experience.
 
 **Pokedex** - [Github Repo](https://github.com/microjupiter/pokedex)
+<br>
 A web-based digital Pokedex cataloging the original 141 Pokemon
 Constructed using a Sinatra framework front & backend allowing the user to capture and personalize their Pokemon collection.
 ## Get in Touch :mailbox:
 
 <p>
   <a href="https://www.linkedin.com/in/kylecwilson90/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-  <a href="https://benthedunn.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
  </p>
  
  <br />
